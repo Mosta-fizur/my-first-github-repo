@@ -1,0 +1,22 @@
+.blog{
+    margin: 10px;
+    margin-bottom: 20px;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: justify;
+    background-color: rgb(230, 209, 209);
+    box-shadow: 10px 10px 10px;
+}
+h3{
+    color: rgb(167, 13, 13);
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    /* font-style: italic; */
+}
+ol{
+    font-style: italic;
+}
+.second{
+    /* display:; */
+}
